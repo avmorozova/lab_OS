@@ -3,7 +3,7 @@
 lang: ru-RU
 title: Лабораторная работа №11
 author: |
-	Морозова Анастасия Владимировна inst{1}
+	Морозова Анастасия Владимировна\inst{1}
 institute: |
 	\inst{1}RUDN University, Moscow, Russian Federation
 date: 28 мая, 2021, Москва, Россия
