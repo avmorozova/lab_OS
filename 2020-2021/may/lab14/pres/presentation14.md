@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Лабораторная работа №12
+title: Лабораторная работа №14
 author: |
 	Морозова Анастасия Владимировна\inst{1}
 institute: |
